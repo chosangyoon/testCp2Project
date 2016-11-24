@@ -1,4 +1,4 @@
-#include <Windows.h>
+/*#include <Windows.h>
 #include <iostream>
 #include <process.h>
 #include "KeyEvent.h"
@@ -72,4 +72,4 @@ int main(){
 	CloseHandle(handleB);
 
 	return 0;
-}
+}*/
