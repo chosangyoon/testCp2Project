@@ -35,5 +35,4 @@ public :
 		cout << "Free with delete[] operator.." << endl;
 		free(addr);
 	}
-
 };

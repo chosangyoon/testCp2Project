@@ -32,5 +32,8 @@
     <ClInclude Include="Frame.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="template.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
