@@ -78,6 +78,9 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MiniGame.cpp" />
+    <ClCompile Include="STL-list.cpp" />
+    <ClCompile Include="STL-map.cpp" />
+    <ClCompile Include="STL-vector.cpp" />
     <ClCompile Include="Thread.cpp" />
   </ItemGroup>
   <ItemGroup>

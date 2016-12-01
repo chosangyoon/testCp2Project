@@ -1,3 +1,4 @@
+/*
 #pragma once
 #include "Frame.h"
 #include "template.h"
@@ -13,7 +14,7 @@ void main() {
 	catch (string msg) {
 		cout << "Error msg : " << msg << endl;
 	}*/
-
+/*
 	ExArray<int> arr1(3);
 	ExArray<char> arr2(4);
 	ExArray<double> arr3(5);
@@ -43,4 +44,4 @@ void main() {
 	arr1.printData();
 	arr4.printData();
 
-}
+}*/
